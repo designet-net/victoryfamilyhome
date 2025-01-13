@@ -1,3 +1,10 @@
-# victoryfamilyhome
-Welcome to **Victory Family Home**! Explore our **Home** page, learn about our **Church Programs**, get to know us better in the **About** section, browse our **Gallery**, and reach out to us via **Contact** for more information.  
-*Designed by HTML*
+Victoryfamilyhome
+HTML5
+CSS3
+JavaScript
+React.js
+Vue.js
+Angular
+SASS
+Bootstrap
+
